@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 18,
+      "first_name": "Wells",
+      "last_name": "McCourtie",
+      "email": "wmccourtieh@whitehouse.gov",
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "first_name": "Rafaello",
+      "last_name": "Zorzin",
+      "email": "rzorzini@github.com",
+      "gender": "Male"
+    },
+    {
+      "id": 20,
+      "first_name": "Morley",
+      "last_name": "Dunbleton",
+      "email": "mdunbletonj@gmpg.org",
+      "gender": "Genderqueer"
+    },
+    {
+      "first_name": "nourhan",
+      "last_name": "ahmed",
+      "email": "noraaymen31@gmail.com",
+      "gender": "f",
+      "id": 21
+    },
+    {
+      "first_name": "ali",
+      "last_name": "alaa",
+      "email": "alialaa21@gmail.com",
+      "gender": "m",
+      "id": 22
+    },
+    {
+      "first_name": "nourhan",
+      "last_name": "aaaaaaaaa",
+      "email": "noraaymen31@gmail.com",
+      "gender": "mmmm",
+      "id": 23
+    }
+  ]
+}
